@@ -1,0 +1,1 @@
+Prithviraj (or Prithvi or Raj) is an incoming Assistant Professor of Computer Science at the University of California, San Diego and directs the [PEARLS Lab](http://pearls.ucsd.edu) in CSE focusing on interactive and grounded language learning. More about him at [here](http://prithvirajva.com).
