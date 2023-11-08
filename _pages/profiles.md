@@ -30,4 +30,11 @@ profiles:
     more_info: >
       <p>CSE, 3235 Voigt Dr</p>
       <p>La Jolla, CA 92093</p>
+  - align: left
+    image: zhiting.jpg
+    content: about_zhiting.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>HDSI 442, 3234 Matthews Ln</p>
+      <p>La Jolla, CA 92093</p>
 ---
