@@ -39,4 +39,16 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>CSE 4102</p>
+  - align: left
+    image: taylor.jpg
+    content: about_taylor.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>CSE</p>
+  - align: right
+    image: jingbo.jpg
+    content: about_jingbo.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p> CSE 4104 / SDSC 211E</p>
 ---
