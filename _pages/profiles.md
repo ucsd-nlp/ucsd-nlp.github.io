@@ -28,24 +28,30 @@ profiles:
     more_info: >
       <p>CSE</p>
   - align: left
+    image: ndapa.jpg
+    content: about_ndapa.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>CSE 4108</p>
+  - align: right
     image: zhiting.jpg
     content: about_zhiting.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>HDSI 442</p>
-  - align: right
+  - align: left
     image: julian.jpg
     content: about_julian.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>CSE 4102</p>
-  - align: left
+  - align: right
     image: taylor.jpg
     content: about_taylor.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>CSE</p>
-  - align: right
+  - align: left
     image: jingbo.jpg
     content: about_jingbo.md
     image_circular: true # crops the image to make it circular
