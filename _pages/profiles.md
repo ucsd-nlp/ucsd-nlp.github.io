@@ -14,27 +14,29 @@ profiles:
     content: about_raj.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>CSE 4134, 3235 Voigt Dr</p>
-      <p>La Jolla, CA 92093</p>
+      <p>CSE 4134</p>
   - align: left
     image: lianhui.jpg
     content: about_lianhui.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>CSE, 3235 Voigt Dr</p>
-      <p>La Jolla, CA 92093</p>
+      <p>CSE</p>
   - align: right
     image: alex.jpg
     content: about_alex.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>CSE, 3235 Voigt Dr</p>
-      <p>La Jolla, CA 92093</p>
+      <p>CSE</p>
   - align: left
     image: zhiting.jpg
     content: about_zhiting.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>HDSI 442, 3234 Matthews Ln</p>
-      <p>La Jolla, CA 92093</p>
+      <p>HDSI 442</p>
+  - align: right
+    image: julian.jpg
+    content: about_julian.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>CSE 4102</p>
 ---
