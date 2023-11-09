@@ -1,7 +1,7 @@
 ---
 layout: profiles
-permalink: /people/
-title: People
+permalink: /people2/
+title: People2
 description: (Faculty) Members of the UCSD NLP Group
 nav: true
 nav_order: 2

@@ -1,0 +1,7 @@
+---
+layout: page
+title: Julian McAuley
+img: assets/img/julian.jpg
+importance: 5
+---
+Julian McAuley is a Professor at UC San Diego, where he works on applications of machine learning to problems involving personalization, and teaches classes on personalized recommendation. He likes bicycling and baroque keyboard. You can find out more about his group [here](https://cseweb.ucsd.edu/~jmcauley/). He is currently accepting students!

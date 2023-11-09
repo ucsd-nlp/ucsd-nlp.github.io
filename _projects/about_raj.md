@@ -1,0 +1,7 @@
+---
+layout: page
+title: Prithviraj Ammanabrolu
+img: assets/img/raj3.jpg
+importance: 1
+---
+Prithviraj (or Prithvi or Raj) is an incoming Assistant Professor in CSE and directs the [PEARLS Lab](http://pearls.ucsd.edu). His research group lives at the intersection of NLP, Reinforcement Learning, and Embodied AI: focusing on how humans and machines can collaborate more efficiently with machines by having them learn from feedback, human or environmental. More about him at [here](http://prithvirajva.com). He is currently recruiting Phd Students in the 2023-24 application cycle!
