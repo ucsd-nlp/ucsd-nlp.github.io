@@ -20,7 +20,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 Welcome to the NLP Group at the University of California, San Diego!
-We range from departments of [CSE](https://cse.ucsd.edu/), [HDSI](https://datascience.ucsd.edu/), [Linguistics](https://linguistics.ucsd.edu/), and [CogSci](https://cogsci.ucsd.edu/).
+We range from departments of [CSE](https://cse.ucsd.edu/), [HDSI](https://datascience.ucsd.edu/), and [Linguistics](https://linguistics.ucsd.edu/).
 Our (non-exhaustive) research focuses: 
 - Computational linguistics
 - Machine learning and language
