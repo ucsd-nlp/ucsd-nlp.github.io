@@ -24,15 +24,7 @@ profiles:
     content: about_lianhui.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>CSE</p>
-  - align: right
-    name: Alex Tamkin
-    link: https://www.alextamkin.com/
-    image: alex2.png
-    content: about_alex.md
-    image_circular: true # crops the image to make it circular
-    more_info: >
-      <p>CSE</p>
+      <p>CSE 4124</p>
   - align: left
     name: Ndapa Nakashole
     link: https://ndapa.us/
