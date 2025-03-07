@@ -25,6 +25,22 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>CSE 4124</p>
+  - align: right
+    name: Dan Fu
+    link: https://danfu.org/
+    image: DanFu2.jpeg
+    content: about_dan.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>TBD</p>
+  - align: left
+    name: Alex Warstadt
+    link: https://alexwarstadt.github.io/
+    image: alex_w.jpg
+    content: about_alex.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>HDSI #331</p>
   - align: left
     name: Ndapa Nakashole
     link: https://ndapa.us/
