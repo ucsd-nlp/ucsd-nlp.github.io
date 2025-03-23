@@ -28,7 +28,7 @@ profiles:
   - align: right
     name: Dan Fu
     link: https://danfu.org/
-    image: DanFu2.jpeg
+    image: Dan_Fu.png
     content: about_dan.md
     image_circular: true # crops the image to make it circular
     more_info: >
