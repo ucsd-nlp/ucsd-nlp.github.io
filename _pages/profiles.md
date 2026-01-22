@@ -25,14 +25,6 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>CSE 4124</p>
-  - align: right
-    name: Dan Fu
-    link: https://danfu.org/
-    image: Dan_Fu.png
-    content: about_dan.md
-    image_circular: true # crops the image to make it circular
-    more_info: >
-      <p>TBD</p>
   - align: left
     name: Alex Warstadt
     link: https://alexwarstadt.github.io/
